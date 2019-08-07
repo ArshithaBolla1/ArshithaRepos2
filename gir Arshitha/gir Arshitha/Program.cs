@@ -10,7 +10,8 @@ namespace gir_Arshitha
     {
         static void Main(string[] args)
         {
-            fghgftgyhjhghs
+            fghgftgyhjhghs;
+            string cherry;
         }
     }
 }
